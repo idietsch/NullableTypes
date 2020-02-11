@@ -12,7 +12,7 @@ namespace NullableTypes {
             var students = new Students[] {
                 new Students(1, "Billy Bob", 2.2, null, null),
                 new Students(2, "Rebecca Black", 1.8, 1000, null),
-                new Students(3, "Mario Mario", 4.0, null, )
+                new Students(3, "Mario Mario", 4.0, null, majors[0])
             };
 
 
